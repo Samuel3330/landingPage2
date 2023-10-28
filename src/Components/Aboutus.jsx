@@ -6,7 +6,7 @@ const Aboutus = () => {
     <section className="w-full overflow-hidden py-20 flex justify-center items-center flex-col gap-y-8 relative">
       <div className="flex justify-center flex-col items-center gap-3">
         <h4 className="font-title font-bold ">Ask Questions</h4>
-        <h1 className="font-bold text-gray-900 text-3xl sm:text-5xl text-center leading-normal">
+        <h1 className="font-bold text-gray-900 text-2xl sm:text-4xl text-center leading-normal">
           All your Al video editing <br /> questions answered
         </h1>
       </div>

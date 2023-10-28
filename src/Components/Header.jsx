@@ -17,22 +17,22 @@ const Header = () => {
             <img src="logoAbu.png" className="w-[50%]" alt="" />
           </div>
           <div className="w-[50%] flex justify-start  items-center">
-            <h1 className="text-xl font-title font-bold">Abu-Studio</h1>
+            <h1 className="text-lg font-title font-bold">Abu-Studio</h1>
           </div>
         </div>
         <nav
           className={`gap-20 max-xl:pl-24 xl:border-[3px] max-xl:row-span-3 xl:col-span-3 xl:border-black h-full flex items-start xl:items-center justify-center max-xl:flex-col`}
         >
-          <a href="#" className="font-title hover:font-bold text-md">
+          <a href="#" className="font-title hover:font-bold text-sm">
             Home
           </a>
-          <a href="#" className="font-title hover:font-bold text-md">
+          <a href="#" className="font-title hover:font-bold text-sm">
             How to work
           </a>
-          <a href="#" className="font-title hover:font-bold text-md">
+          <a href="#" className="font-title hover:font-bold text-sm">
             Faq
           </a>
-          <a href="#" className="font-title hover:font-bold text-md">
+          <a href="#" className="font-title hover:font-bold text-sm">
             About Us
           </a>
         </nav>

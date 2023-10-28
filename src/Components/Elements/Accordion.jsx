@@ -21,7 +21,7 @@ const Accordion = ({ title, description, mode = false, isOn = false }) => {
               showMenu ? "border-b-2" : "border-b-none"
             } ${mode ? "border-black" : "border-white"}`}
           >
-            <span className={`text-3xl font-bold ${colorWhite}`}>Q</span>
+            <span className={`text-2xl font-bold ${colorWhite}`}>Q</span>
           </div>
           <div
             className={`border-black pl-6 h-full items-center flex w-[70%] transition-all duration-500 ${
@@ -29,7 +29,7 @@ const Accordion = ({ title, description, mode = false, isOn = false }) => {
             } ${mode ? "border-black" : "border-white"}`}
           >
             <p
-              className={`text-md sm:text-xl font-title font-bold ${colorWhite}`}
+              className={`text-sm sm:text-lg font-title font-bold ${colorWhite}`}
             >
               {title}
             </p>
@@ -39,7 +39,7 @@ const Accordion = ({ title, description, mode = false, isOn = false }) => {
               showMenu ? "border-b-2" : "border-b-none"
             } ${mode ? "border-black" : "border-white"}`}
           >
-            <button onClick={() => setShowMenu(!showMenu)} className="text-2xl">
+            <button onClick={() => setShowMenu(!showMenu)} className="text-xl">
               {showMenu ? (
                 <IoIosArrowUp
                   className={`cursor-pointer transition-all duration-500 ${colorWhite}`}
@@ -62,7 +62,7 @@ const Accordion = ({ title, description, mode = false, isOn = false }) => {
               showMenu ? "flex" : "hidden"
             } ${mode ? "border-black" : "border-white"}`}
           >
-            <span className={`text-3xl font-bold ${colorWhite}`}>A</span>
+            <span className={`text-2xl font-bold ${colorWhite}`}>A</span>
           </div>
           <div
             className={`pl-6 h-full items-center flex w-[70%] transition-all duration-500 ${

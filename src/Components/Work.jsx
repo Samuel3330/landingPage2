@@ -10,7 +10,7 @@ const Work = () => {
     <section className=" w-full overflow-hidden py-20 flex justify-center items-center flex-col gap-y-8 relative">
       <div className="flex justify-center flex-col items-center gap-3">
         <h4 className="font-title font-bold ">Trend Is The Creators NetWork</h4>
-        <h1 className="font-body font-bold text-gray-900 text-3xl sm:text-5xl text-center leading-normal">
+        <h1 className="font-body font-bold text-gray-900 text-2xl sm:text-4xl text-center leading-normal">
           How Does Al Video <br /> Editing Work?
         </h1>
       </div>
@@ -22,11 +22,11 @@ const Work = () => {
               <span>
                 <RiCheckboxBlankCircleFill className="text-xl" />
               </span>
-              <h1 className="ml-3 font-body font-bold text-md sm:text-xl">
+              <h1 className="ml-3 font-body font-bold text-md sm:text-lg">
                 Choose A Video Template
               </h1>
             </div>
-            <p className="ml-8 lg:mr-12 mr-1 text-sm sm:text-md font-body text-gray-800 leading-7">
+            <p className="ml-8 lg:mr-12 mr-1 text-sm font-body text-gray-800 leading-7">
               Create engaging videos right from the star by using pre-made video
               templates.
             </p>
@@ -40,11 +40,11 @@ const Work = () => {
               <span>
                 <RiCheckboxBlankCircleFill className="text-xl text-[#496396]" />
               </span>
-              <h1 className="ml-3 font-body font-bold text-md sm:text-xl">
+              <h1 className="ml-3 font-body font-bold text-md sm:text-lg">
                 Edit Video
               </h1>
             </div>
-            <p className="ml-8 mr-1 text-sm sm:text-md font-body text-gray-600 leading-7">
+            <p className="ml-8 mr-1 text-sm font-body text-gray-600 leading-7">
               Customize your video footage by adding background music, text,
               transition, animations, videos.
             </p>
@@ -60,11 +60,11 @@ const Work = () => {
               <span>
                 <RiCheckboxBlankCircleFill className="text-xl text-[#B265E9]" />
               </span>
-              <h1 className="ml-3 font-body font-bold text-md sm:text-xl">
+              <h1 className="ml-3 font-body font-bold text-md sm:text-lg">
                 Select An AI Avatar
               </h1>
             </div>
-            <p className="ml-8 lg:mr-12 mr-1 text-sm sm:text-md font-body text-gray-800 leading-7">
+            <p className="ml-8 lg:mr-12 mr-1 text-sm font-body text-gray-800 leading-7">
               We have 150+ AI Avatars that will act as presenters in your video
               and narrate your text.
             </p>
@@ -78,11 +78,11 @@ const Work = () => {
               <span>
                 <RiCheckboxBlankCircleFill className="text-xl text-[#FF6359]" />
               </span>
-              <h1 className="ml-3 font-body font-bold text-md sm:text-xl">
+              <h1 className="ml-3 font-body font-bold text-md sm:text-lg">
                 Generate Video
               </h1>
             </div>
-            <p className="ml-8 mr-1 text-sm sm:text-md font-body text-gray-600 leading-7">
+            <p className="ml-8 mr-1 text-sm font-body text-gray-600 leading-7">
               Your AI-generated video is done! Share your video clip on your
               Youtube channel embed it in your LMS or simply download it.
             </p>
@@ -98,11 +98,11 @@ const Work = () => {
               <span>
                 <RiCheckboxBlankCircleFill className="text-xl text-[#F1D45E]" />
               </span>
-              <h1 className="ml-3 font-body font-bold text-md sm:text-xl">
+              <h1 className="ml-3 font-body font-bold text-md sm:text-lg">
                 Paste Your Video Script
               </h1>
             </div>
-            <p className="ml-8 lg:mr-12 mr-1 text-sm sm:text-md font-body text-gray-800 leading-7">
+            <p className="ml-8 lg:mr-12 mr-1 text-sm font-body text-gray-800 leading-7">
               Create engaging videos right from the star by using pre-made video
               templates.
             </p>
@@ -116,11 +116,11 @@ const Work = () => {
               <span>
                 <RiCheckboxBlankCircleFill className="text-xl text-[#10BE7B]" />
               </span>
-              <h1 className="ml-3 font-body font-bold text-md sm:text-xl">
+              <h1 className="ml-3 font-body font-bold text-md sm:text-lg">
                 Earn More As You Go
               </h1>
             </div>
-            <p className="ml-8 mr-1 text-sm sm:text-md font-body text-gray-600 leading-7">
+            <p className="ml-8 mr-1 text-sm font-body text-gray-600 leading-7">
               Customize your video footage by adding background music, text,
               transition, animations, videos.
             </p>
